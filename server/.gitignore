@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+.env
+pi-twin-chatbot-xiyt-ed65fedbf656.json
+server\app\Appointment_chatbot\pi-twin-chatbot-xiyt-ed65fedbf656.json
